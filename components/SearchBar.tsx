@@ -66,3 +66,4 @@ export default function SearchBar({ onSearch, isLoading }: SearchBarProps) {
   );
 }
 
+
